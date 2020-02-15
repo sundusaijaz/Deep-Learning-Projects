@@ -1,2 +1,5 @@
 # Deep-Learning-Projects
-This repo contains different projects of binary class and multi class classification
+This repo contains different projects of 
+  1) binary class 
+  2) multi class classification 
+  3) regression
